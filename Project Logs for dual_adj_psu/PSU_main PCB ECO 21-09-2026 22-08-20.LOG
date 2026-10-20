@@ -1,0 +1,71 @@
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=+24V Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=-24V Pin=C10-2
+Removed Pin From Net: NetName=NetC16_2 Pin=D5-1
+Removed Pin From Net: NetName=-VOUT Pin=D5-2
+Removed Pin From Net: NetName=-24V Pin=J3-2
+Removed Member From Class: ClassName=Schem_Main Member=C5
+Removed Member From Class: ClassName=Schem_Main Member=C10
+Removed Member From Class: ClassName=Schem_Main Member=D5
+Change Component Footprint: Designator=D2 Old Footprint=FP-SMC-MFG New Footprint=Rohm SOD-123
+Change Component Footprint: Designator=D3 Old Footprint=FP-SMC-MFG New Footprint=Rohm SOD-123
+Change Component Footprint: Designator=D4 Old Footprint=FP-SMC-MFG New Footprint=Rohm SOD-123
+Change Component Comment : Designator=D2 Old Comment=SS34-E3/9AT New Comment=RF071MM2STFTR
+Change Component Comment : Designator=D3 Old Comment=SS34-E3/9AT New Comment=RF071MM2STFTR
+Change Component Comment : Designator=D4 Old Comment=SS34-E3/9AT New Comment=RF071MM2STFTR
+Change Managed Component Library Link : Designator=D2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=AD27A484-B450-4DC0-8E39-2F3F9B187B4F New ItemGUID= Old RevisionGUID=E506118C-3074-44B3-B464-CF4C5C221229 New RevisionGUID=
+Change Managed Component Library Link : Designator=D3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=AD27A484-B450-4DC0-8E39-2F3F9B187B4F New ItemGUID= Old RevisionGUID=E506118C-3074-44B3-B464-CF4C5C221229 New RevisionGUID=
+Change Managed Component Library Link : Designator=D4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=AD27A484-B450-4DC0-8E39-2F3F9B187B4F New ItemGUID= Old RevisionGUID=E506118C-3074-44B3-B464-CF4C5C221229 New RevisionGUID=
+Change component parameters: Designator = "D2" ("D2"); Footprint = "FP-SMC-MFG"; UniqueID = "\WIGQQCRQ" ("\WIGQQCRQ")
+Change component parameters: Designator = "D3" ("D3"); Footprint = "FP-SMC-MFG"; UniqueID = "\WLCFVWOA" ("\WLCFVWOA")
+Change component parameters: Designator = "D4" ("D4"); Footprint = "FP-SMC-MFG"; UniqueID = "\YSLEDEVE" ("\YSLEDEVE")
+Added Component: Designator=5(Rohm SOD-123)
+Added Component: Designator=J5(Wurth 2 pin 5mm screw terminal)
+Add component (AddParameter): Name = "Application"; Value = "Pressure Clamp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/components/products/datasheet/691101710002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691101710002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modularity"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "105degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Series"; Value = "WR-TBL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "16A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Section"; Value = "26 to 14 (AWG) 0.5 to 2.5 (mm^2)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250V (AC)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC16_2 Pin=5-1
+Added Pin To Net: NetName=-VOUT Pin=5-2
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=-24V Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J5-2
+Change Net Name : Old Net Name=NetC16_2 New Net Name=Net5_1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=C7-1
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=C8-1
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=C9-1
+Added Net: Name=NetC4_2
+Added Member To Class: ClassName=Schem_Main Member=Component 5 RF071MM2STFTR
+Added Member To Class: ClassName=Schem_Main Member=Component J5 691101710002
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_5

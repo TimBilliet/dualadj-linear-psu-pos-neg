@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=-24V Pin=J5-1
+Removed Pin From Net: NetName=GND Pin=J5-2
+Removed Member From Class: ClassName=Schem_Main Member=J5

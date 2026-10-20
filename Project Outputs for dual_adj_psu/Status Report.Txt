@@ -1,0 +1,22 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [dual_adj_psu.PrjPcb]
+   Generated File[PSU_main_Copper_Signal_Top.gbr]
+   Generated File[PSU_main_Copper_Signal_Bot.gbr]
+   Generated File[PSU_main_Legend_Top.gbr]
+   Generated File[PSU_main_Legend_Bot.gbr]
+   Generated File[PSU_main_Soldermask_Top.gbr]
+   Generated File[PSU_main_Soldermask_Bot.gbr]
+   Generated File[PSU_main_Paste_Top.gbr]
+   Generated File[PSU_main_Paste_Bot.gbr]
+   Generated File[PSU_main_Profile.gbr]
+   Generated File[PSU_main_NPTH_Drill.gbr]
+   Generated File[PSU_main_PTH_Drill.gbr]
+   Generated File[PSU_main.EXTREP]
+   Generated File[PSU_main.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 19:33:47 On 23/09/2026

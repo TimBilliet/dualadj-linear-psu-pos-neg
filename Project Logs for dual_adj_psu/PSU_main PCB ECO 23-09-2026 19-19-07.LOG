@@ -1,0 +1,12 @@
+Added Component: Designator=M1(M3 hole)
+Added Component: Designator=M2(M3 hole)
+Added Component: Designator=M3(M3 hole)
+Added Component: Designator=M4(M3 hole)
+Added Pin To Net: NetName=GND Pin=M1-1
+Added Pin To Net: NetName=GND Pin=M2-1
+Added Pin To Net: NetName=GND Pin=M3-1
+Added Pin To Net: NetName=GND Pin=M4-1
+Added Member To Class: ClassName=Schem_Main Member=Component M1 Mounting hole
+Added Member To Class: ClassName=Schem_Main Member=Component M2 Mounting hole
+Added Member To Class: ClassName=Schem_Main Member=Component M3 Mounting hole
+Added Member To Class: ClassName=Schem_Main Member=Component M4 Mounting hole
